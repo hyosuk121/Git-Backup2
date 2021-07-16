@@ -11,3 +11,5 @@
 data science & data engineering
 ## Git에 대한 나의 감정
 흥미롭다
+## 특강을 통해 배우고 싶은 것
+Git을 통해 이력 만들기
