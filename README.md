@@ -7,3 +7,5 @@
 컴퓨터 공학과
 ## KDT 지원 이유
 실무에서 필요한 기술을 배우기 위해
+## KDT에서 배우고 싶은것
+data science & data engineering
