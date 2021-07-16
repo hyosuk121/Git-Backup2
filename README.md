@@ -9,3 +9,5 @@
 실무에서 필요한 기술을 배우기 위해
 ## KDT에서 배우고 싶은것
 data science & data engineering
+## Git에 대한 나의 감정
+흥미롭다
