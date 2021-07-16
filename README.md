@@ -1,15 +1,19 @@
-# 자기소개
-나를 소개하기
+# Git Backup
+## 용어
+> `Local Repository`: 지역 저장소
+> `Remote Repository`: 원격 저장소
+> `Push`: 지역 저장소의 commit들을 원격 저장소에 옮김
+> `Pull`: 원격 저장소의 commit들을 로컬 저장소로 당겨옴
+> `clone`: 원격 저장소에 저장된 commit들을 다른 지역 저장소에 복제
+## 연결
+- `git remote`: 현재 등록된 원격 저장소를 보여줌
+- `git remote -v`: 현재 등록된 원격 저장소를 상세히 보여줌
+- `git remote add [name] [주소명]`: 원결 저장소와 현재 지역 저장소를 연결함
+## PUSH
+- github 계정 등록
+- `git push origin master`: master 브랜치를 원격 저장소롤 push
+ ## CLONE
+ - `git clone [.git url]`: 원격 저장소 전체를 복제
 
-## 이름
-홍효석
-## 전공
-컴퓨터 공학과
-## KDT 지원 이유
-실무에서 필요한 기술을 배우기 위해
-## KDT에서 배우고 싶은것
-data science & data engineering
-## Git에 대한 나의 감정
-흥미롭다
-## 특강을 통해 배우고 싶은 것
-Git을 통해 이력 만들기
+## PULL
+- `git pull`: 원격 저장소로 부터 전체 commit을 당겨옴
